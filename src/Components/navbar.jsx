@@ -1,15 +1,16 @@
 import NavDrawer from "./navdrawer";
 import {Box,Image,Input,Text} from "@chakra-ui/react"
 import Navmenu1 from "./navmenu";
+import { Link } from "react-router-dom";
 
 function Navbar(){
     return (
         <>
         <Box backgroundColor="#007bff;" h="70px" display="flex" alignItems="center" gap="30px" color="white">
             <NavDrawer/>
-            <Image h="60%" src="https://www.jiomart.com/assets/version1666876029/smartweb/images/jiomart_logo_beta.svg"/>
+            <Link to="/"><Image h="60%" src="https://www.jiomart.com/assets/version1666876029/smartweb/images/jiomart_logo_beta.svg"/></Link>
             <Input placeholder='Search essentials,groceries, and more ...' w="50%" backgroundColor="white" color="black"/>
-            <Image h="40%" ml="15px"src="https://cdn-icons-png.flaticon.com/128/456/456283.png"/><Text ml="-18px">Sign in/Sign up</Text>
+            <Image h="40%" ml="15px"src="https://cdn-icons-png.flaticon.com/128/456/456283.png"/><Link to="/login"><Text ml="-18px">Sign in/Sign up</Text></Link>
             <Image h="45%" ml="20px"  src="https://cdn-icons-png.flaticon.com/128/4290/4290854.png"/> <Text ml="-18px">Cart</Text>
         </Box>
         <Box backgroundColor="#f3f3f3;" h="45px" display="flex" gap="35px" alignItems="center" >
@@ -65,10 +66,6 @@ function Navbar(){
             six={"Home Cleaning & Organisation"}
             seven={"Home Safety & Automation"}
             />                 
-           {/* <Navmenu1 head={"Sports,Toys & Luggage"} one={"Toys & Games"}
-            two={"Bags & Travel Luggage"}
-            three={"Sporting Goods & Fitness Equipment"}
-            />    */}
         </Box>
         </>
     )
