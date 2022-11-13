@@ -30,12 +30,12 @@ export default function Footer(){
             <Box  w="300px">
             <Text fontWeight="bold" fontSize="13px">CONTACT US</Text>
                 <Box color="rgba(51,51,51,.75)" fontSize="13px" mt="10px"  >     
-                <p>WhatsApp us :</p>
+                <p style={{display:"flex"}}>WhatsApp us : <Text color="#007bff"> 70003 70003</Text></p>
                 <br/>
-                <p>Call us :</p>
+                <p style={{display:"flex"}}>Call us : <Text color="#007bff"> 1800 890 1222</Text></p>
                 <p>8:00 AM to 8:00 PM, 365 days</p>
                 <br/>
-                <p>Please note that you are accessing the BETA Version of <a href="https://www.jiomart.com/">www.jiomart.com</a></p>
+                <p>Please note that you are accessing the BETA Version of <a style={{color:"#007bff"}} href="https://www.jiomart.com/">www.jiomart.com</a></p>
                 <br/>
                 <p>Should you encounter any bugs, glitches, lack of functionality, delayed deliveries, billing errors or other problems on the beta website, please email us on cs@jiomart.com</p>
                 <br/>
