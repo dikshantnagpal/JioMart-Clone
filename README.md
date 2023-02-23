@@ -12,26 +12,16 @@ https://papaya-pika-be82a2.netlify.app/
 # Screenshots:
 
 Screenshot-1:
-![Screenshot-1](https://user-images.githubusercontent.com/107460330/208363688-778e76c1-0e99-4940-8f4f-f1dbd4a5c9cb.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/108027350/220915172-c1a6d8d6-08b6-4b4c-b8d3-0f43c3a9470b.png)
 
 <hr>
 
 Screenshot-2:
-![Screenshot-2](https://user-images.githubusercontent.com/107460330/208363692-679a175e-800c-4d79-9cdd-6c3a559dec85.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/108027350/220915364-242564ab-5149-42e7-a548-acb5b322cfe6.png)
 
 <hr>
 
 Screenshot-3:
-![Screenshot-3](https://user-images.githubusercontent.com/107460330/208363696-72934762-b387-4cd3-8f2e-8b10c197d1a3.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/108027350/220915510-d0331166-41f5-4970-902d-e6dd0d39854b.png)
 
-<hr>
 
-Screenshot-4:
-![Screenshot-4](https://user-images.githubusercontent.com/107460330/208363699-9a85bde3-3fac-4430-89a7-1f228ea551a4.png)
-
-<hr>
-
-Screenshot-5:
-![Screenshot-5](https://user-images.githubusercontent.com/107460330/208363685-9fedfd12-c78a-4c8f-8caf-fc1b921a871d.png)
-
-<hr>
